@@ -1,0 +1,6 @@
+.env
+kiro-account-*.json
+__pycache__/
+*.pyc
+.venv/
+venv/
